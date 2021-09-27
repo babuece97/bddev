@@ -1,0 +1,25 @@
+.card{box-shadow: 0 4px 8px 0 rosybrown;
+    padding: 10px; 
+    border-radius: 20px;
+    padding: 20px; 
+    margin: 5px;
+
+}
+.card-image:hover{
+    box-shadow: royalblue;
+}
+.card-image{
+    color:azure;
+    text-align: left;
+    margin: 10px;
+    background-color: burlywood;
+    box-shadow: 0 4px 8px 0 rgb(145, 130, 21);
+    padding: 10px; 
+}
+
+.btn-team{
+    background-color: rgb(195, 247, 144);
+    width: 150px;
+    height:35px;
+    cursor: pointer;
+}

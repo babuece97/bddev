@@ -1,0 +1,20 @@
+.main-container{
+    display:grid;
+    grid-template-columns: 3fr 1fr;
+    grid-gap:10px;
+    border-radius: 20px;
+    
+    
+}
+.card-container{
+    display:grid;
+    grid-template-columns: 3fr 3fr 3fr;
+    background-color: rgb(231, 223, 225);
+    grid-column-gap:20px;
+    grid-row-gap:20px;
+    border :1px solid rgb(5, 5, 6);
+    padding: 25px;
+    border-radius: 10px;
+    
+    
+}
